@@ -1,0 +1,15 @@
+header {
+  border-radius: 15px;
+  margin-top: 15px;
+}
+
+footer {
+  margin-top: 15px;
+  background-color: #ccc;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.news::-webkit-scrollbar {
+  display: none;
+}
