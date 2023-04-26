@@ -1,14 +1,12 @@
-# myreactapp
+# MyReactApp
 
-My First Single Page Application Using ReactJS!
+A Simple Single Page Application Using ReactJS
 
-This project is a simple web application that fetches the blogs from XML File and latest news articles from newsapi.org and displays them in a grid layout.
+MyReactApp is a simple single page web application that fetches blog data from an XML file and latest news articles from newsapi.org, and displays them in a grid layout.
 
 # Installation
 
-To run this project, you need to have Node.js installed on your computer. 
-
-If you don't have it installed, you can download it from the official website.
+To run this project, you will need to have Node.js installed on your computer. If you do not already have it installed, you can download it from the official website.
 
 Once you have Node.js installed, follow these steps:
 
@@ -24,7 +22,8 @@ Once the installation is complete, run the following command to start the applic
 
 ```npm start```
 
-Finally, open your web browser and navigate to http://localhost:3000 to view the application.
+Finally, open your web browser and navigate to ```http://localhost:3000``` to view the application.
+
 
 # API Key
 
