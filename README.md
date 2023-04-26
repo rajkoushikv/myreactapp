@@ -36,4 +36,4 @@ Once you have your API key, open the Newsarticles.js file in the src directory a
 
 ```https://newsapi.org/v2/top-headlines?country=us&apiKey=API_KEY&pageSize=5```
 
-That's it! You should now be able to see the latest news articles in your web browser.
+You should now be able to see the latest news articles in your web browser.
