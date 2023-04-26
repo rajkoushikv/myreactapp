@@ -2,7 +2,7 @@
 
 My First Single Page Application Using ReactJS!
 
-This project is a simple web application that fetches the latest news articles from newsapi.org and displays them in a grid layout.
+This project is a simple web application that fetches the blogs from XML File and latest news articles from newsapi.org and displays them in a grid layout.
 
 # Installation
 
